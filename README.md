@@ -4,9 +4,7 @@ A new Flutter project.
 
 ## project preview
 
-![avatar](./preview/1.jpg)
-![avatar](./preview/2.jpg)
-![avatar](./preview/3.jpg)
+<img src="./preview/1.jpg" width="200" height="344" alt="cinemaPage"/><img src="./preview/2.jpg" width="200" height="344" alt="movieDetailPage"/><img src="./preview/3.jpg" width="200" height="344" alt="homePage"/>
 
 ## Getting Started
 
