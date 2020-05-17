@@ -1,0 +1,112 @@
+{
+    "results": [
+        {
+            "title": "西红市首富",
+            "avator": "assets/images/movieItem1.webp",
+            "diretor": [
+                "闫菲",
+                "彭大莫"
+            ],
+            "actor": [
+                "沈腾",
+                "宋云",
+                "常远"
+            ],
+            "title_us": "Hello Mr.Billionaire",
+            "category": "喜剧",
+            "produce_from": "中国大陆",
+            "play_time": "118",
+            "produce_time": "2018-07-27 08:00",
+            "rating": "9.2",
+            "rating_amount": "1814917",
+            "recommend_scale": "63%",
+            "like_amount": "2357891",
+            "pre_video": "http://vt1.doubanio.com/202005151624/5270163f888e0154837dd3b51bf07a0d/view/movie/M/402480072.mp4"
+        },
+        {
+            "title": "真心半解",
+            "avator": "assets/images/movieItem2.webp",
+            "diretor": [
+                "伍思薇"
+            ],
+            "actor": [
+                "莉娅·刘易斯",
+                "丹尼尔·迪默",
+                "艾丽克西斯"
+            ],
+            "title_us": "The Half of It",
+            "category": "喜剧/爱情",
+            "produce_from": "美国",
+            "play_time": "104",
+            "produce_time": "2020-05-01 08:00",
+            "rating": "8.3",
+            "rating_amount": "8393",
+            "recommend_scale": "70%",
+            "like_amount": "32112",
+            "pre_video": "http://vt1.doubanio.com/202005161928/ff2dda4dab171133ae20d5c336a14bcc/view/movie/M/402600682.mp4"
+        },
+        {
+            "title": "悲惨世界",
+            "avator": "assets/images/movieItem3.webp",
+            "diretor": [
+                "拉吉·利"
+            ],
+            "actor": [
+                "达米安·勃纳尔",
+                "亚历克"
+            ],
+            "title_us": "Les misérables",
+            "category": "犯罪",
+            "produce_from": "法国",
+            "play_time": "104",
+            "produce_time": "2019-03-22 08:00",
+            "rating": "8.7",
+            "rating_amount": "618321",
+            "recommend_scale": "68%",
+            "like_amount": "9811",
+            "pre_video": "http://vt1.doubanio.com/202005161929/dfcaaafaac5852ca3d05bc802957b859/view/movie/M/402580690.mp4"
+        },
+        {
+            "title": "夺命公寓",
+            "avator": "assets/images/movieItem4.webp",
+            "diretor": [
+                "David Marmor"
+            ],
+            "actor": [
+                "艾伦·布卢门菲尔德",
+                "泰勒·尼科斯"
+            ],
+            "title_us": "1BR",
+            "category": "惊悚/恐怖",
+            "produce_from": "美国",
+            "play_time": "90",
+            "produce_time": "2019-07-18 08:00",
+            "rating": "6.1",
+            "rating_amount": "28192",
+            "recommend_scale": "48%",
+            "like_amount": "2132",
+            "pre_video": "http://vt1.doubanio.com/202005161929/df94b7dfeaf6c3c9522f0cab2aa1732e/view/movie/M/402570520.mp4"
+        },
+        {
+            "title": "列夫·朗道：娜塔莎",
+            "avator": "assets/images/movieItem5.webp",
+            "diretor": [
+                "伊利亚·赫尔扎诺夫斯基"
+            ],
+            "actor": [
+                "纳塔利娅·别列日纳娅",
+                "Olga Shkabarnya"
+            ],
+            "title_us": "DAU.Natasha",
+            "category": "惊悚/恐怖",
+            "produce_from": "德国",
+            "play_time": "145",
+            "produce_time": "2020-02-26 08:00",
+            "rating": "6.4",
+            "rating_amount": "87112",
+            "recommend_scale": "68%",
+            "like_amount": "2188",
+            "pre_video": "http://vt1.doubanio.com/202005161930/525078a93512f73000730a7cdf6fbad7/view/movie/M/402560401.mp4"
+        }
+    ]
+}
